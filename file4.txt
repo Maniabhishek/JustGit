@@ -14,7 +14,7 @@ someFunc2(){
 
 someFunc4(){
     clg(func4)
-=======
+
 some func3(){
     console.log(func3)
 }
