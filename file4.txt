@@ -2,8 +2,12 @@ this is file 4
 
 someFun(){
     console.log(developer B)
-    
+
 someFunc(){
     clg("my name")
 
+}
+
+someFunc2(){
+    console.log(nwjonfl)
 }
