@@ -11,3 +11,7 @@ someFunc(){
 someFunc2(){
     console.log(nwjonfl)
 }
+
+someFunc4(){
+    clg(func4)
+}
